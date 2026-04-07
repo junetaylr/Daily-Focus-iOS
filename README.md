@@ -23,7 +23,7 @@ A minimal and modern iOS application designed to help users stay intentional by 
 
 ## 🎥 Demo
 
-![App Demo](.gif)
+![App Demo](focus.gif)
 
 ## 📱 How It Works
 
@@ -31,6 +31,3 @@ Users can enter a daily focus, save it, and view it in a dynamic list. Entries p
 
 ---
 
-## 🚀 Author
-
-June Taylr
